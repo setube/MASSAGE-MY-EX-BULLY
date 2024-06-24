@@ -1,0 +1,36 @@
+0|$|And thus, the 10-session massage package Dana had purchased came to an end, leaving me with more questions than answers.
+1|$|The enigma surrounding Dana's sudden reappearance in my life, and the reasons behind her past cruelty towards me, remained shrouded in an impenetrable veil of mystery. 
+2|$|As the final session drew to a close, I found myself grappling with a profound sense of unease, knowing that I may never uncover the truth behind her actions.
+3|$|Ed.1 NORMAL END.
+4|Dana|Enough is enough!!!
+5|Dana|I came here for a massage, not to be subjected to your vile and unrelenting sexual advances, you disgusting pervert! 
+6|Dana| Your heavy breathing and foul stench are a testament to your lack of decency and respect...!
+7|$|Dana's voice trembled with unbridled fury as she hastily adjusted her disheveled clothing and stormed out of the massage parlor, her footsteps echoing with indignation.
+8|$|After a while,
+9|$| menacing group of men, exuding an aura of danger and violence, barged through the entrance of the once-peaceful establishment.
+10|$|As I took a closer look at their hardened faces, a sinking realization dawned upon me. These were no ordinary thugs; 
+11|$|they were the very same individuals who had tormented and bullied me relentlessly during my school years, now transformed into full-fledged gangsters. 
+12|$|The sight of them invading my cherished place of business, my sanctuary, filled me with an overwhelming sense of dread.
+13|Thug|Word on the street is that you had the audacity to lay your filthy hands on our girl, Dana. You've made a grave mistake, you pathetic worm. Today, you breathe your last.
+14|$|They unleashed a barrage of fists and baseball bats, beating me relentlessly until I lost consciousness.
+15|$|When I awoke, my massage parlor lay in ruins. 
+16|$|Realizing I could no longer continue my business, I had no choice but to close the doors forever, my dreams shattered.
+17|$|Ed.2 BAD END
+18|$|I was beaten up again.
+19|$|The brutal assault shattered my illusion of recovery, revealing the lingering trauma of my school days. 
+20|$|Ah, right...
+21|$|She had always been my tormentor, relishing in my suffering as I lay crushed beneath her heel.
+22|$|Our roles were etched in stone, an immutable hierarchy that defied the passage of time and change of circumstance.
+23|$|I had foolishly believed that adulthood could alter the dynamics that defined us, but I was wrong.
+24|$|I found myself ensnared in the shackles of this toxic relationship, 
+25|$|a prisoner of my own history, condemned to relive the cycle of pain and humiliation with no hope of escape.
+26|$|Ed.3 Trapped
+27|$|The dynamics between Dana and I had undergone a startling transformation.
+28|$|The once-dominant figure now submitted herself to my authority, her demeanor one of unwavering devotion.
+29|Dana|Master, your touch remains unparalleled. My trust and loyalty shall forever remain bound to you...♡
+30|$|she declared, her eyes gleaming with adoration.
+31|$|Dana approached the counter, purchasing an unlimited regular pass, a symbol of her pledge to frequent this sanctuary weekly. 
+32|$|The memories of her past torment dissipated, replaced by the reality of her unwavering allegiance to me.
+33|$|The roles had been reversed, the once-regal queen now a humble servant, and I, her benevolent master. 
+34|$|Her existence would be intertwined with mine, her life's purpose found in serving at my feet.
+35|$|Ed.4 Reversal [True End]

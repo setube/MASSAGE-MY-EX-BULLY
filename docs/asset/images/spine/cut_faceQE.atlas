@@ -1,0 +1,21 @@
+cut_faceQE.png
+size:147,153
+filter:Linear,Linear
+1- 거절
+bounds:2,10,33,33
+1-!
+bounds:81,45,15,50
+rotate:90
+1-q
+bounds:37,12,31,47
+rotate:90
+2-!
+bounds:133,20,12,40
+2-Q
+bounds:86,2,26,41
+bubble1
+bounds:81,62,89,64
+rotate:90
+bubble2
+bounds:2,45,106,77
+rotate:90

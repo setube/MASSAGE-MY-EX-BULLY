@@ -1,0 +1,15 @@
+0||.
+1|$|(Well then, let's head into the massage room.)
+2|$|(Well then, let's head into the massage room.)
+3|$|(Well then, let's head into the massage room.)
+4|$|(Well then, let's head into the massage room.)
+5|$|(Well then, let's head into the massage room.)
+6|$|(Well then, let's head into the massage room.)
+7|$|(Well then, let's head into the massage room.)
+8|$|We're ready for you, Miss Dana. Please come into the massage room.
+9|$|We're ready for you, Miss Dana. Please come into the massage room.
+10|$|We're ready for you, Miss Dana. Please come into the massage room.
+11|$|We're ready for you, Miss Dana. Please come into the massage room.
+12|$|Dana, let's go in.
+13|$|Hey, go in.
+14|$|Hey, go in.
